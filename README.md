@@ -1,6 +1,5 @@
 # school-bookmarklets
-I returned!
-Discord Username: TermZ#0438
+
 
 A compact arrangement of bookmarklets for fun and for school. I did not make these and they were collected from other sources.
 I did make the collection myself, I just didn't make the javascript myself. 
